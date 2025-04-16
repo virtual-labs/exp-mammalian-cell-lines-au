@@ -1,0 +1,47 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which is the indicator used in the cell culturing medium? ",
+      "answers": {
+        "a": "methyl red",
+        "b": "phenol red",
+        "c": "methyl orange",
+        "d": "trypan blue"
+      },
+ 
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },   
+    	 
+    	 
+
+    {
+      "question": "2. A student working in cell culture was not able to perform his experiments because of poor cell growth. can you help him by suggesting the possible reasons for the problem?",
+      "answers": {
+        "a": "change in medium or serum",
+        "b": "low level bacterial or fungal contamination.",
+        "c": "low initial cell inoculum.",
+        "d": "all the above."
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. How can you solve building up of toxic metabolites in the medium?",
+      "answers": {
+        "a": "remove medium and add fresh medium.",
+        "b": "use antibiotics",
+        "c": "a or b",
+        "d": "none of the above"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 

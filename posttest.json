@@ -1,0 +1,46 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Cells that do not attach normally to a substrate but remain in suspension with a spherical shape.",
+      "answers": {
+        "a": "Epithelial like",
+        "b": "Lymphoblast like",
+        "c": "Fibroblast like",
+        "d": "Trophoblast like"
+      },
+ 
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. An example for mammalian tissue culture media.",
+      "answers": {
+        "a": "Luria Bertani media",
+        "b": "Yeast Peptone Dextrose media",
+        "c": "Bristol's media",
+        "d": "Dulbecco's Modified Eagle media"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. Sub culturing of cells can be started at which phase of cell growth?",
+      "answers": {
+        "a": "lag phase",
+        "b": "beginning of log phase",
+        "c": "stationary phase",
+        "d": "at the end of log phase"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
