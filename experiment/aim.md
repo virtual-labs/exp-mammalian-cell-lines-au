@@ -1,1 +1,5 @@
-### Aim of the experiment
+### Objective
+ 
+To carry out resuscitation and maintenance of mammalian cell lines.
+
+ 
